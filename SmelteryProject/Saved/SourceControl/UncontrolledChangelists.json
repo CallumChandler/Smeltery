@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 				"C:/Users/ray2d/OneDrive/Documents/Unreal Projects/smeltry_project/Smeltery/SmelteryProject/Content/Maps/Mikail.umap",
 				"C:/Users/ray2d/OneDrive/Documents/Unreal Projects/smeltry_project/Smeltery/SmelteryProject/Content/untitled_category/untitled_asset/Walkway.uasset",
@@ -45,6 +46,31 @@
 				"C:/Users/jdtay/OneDrive/Desktop/Github Repo's/Factory Project/Smeltery/SmelteryProject/Content/untitled_category/untitled_asset/SmoothCornerWindow.uasset",
 				"C:/Users/jdtay/OneDrive/Desktop/Github Repo's/Factory Project/Smeltery/SmelteryProject/Content/untitled_category/untitled_asset/SmoothCurvedWindow.uasset"
 >>>>>>> 5376891df7cbfd41f23c2608fdc9e37ea54276b3
+=======
+				"C:/Users/WenYao/Documents/GroupDSmeltery/Smeltery/SmelteryProject/Content/Maps/WenYaoLevel.umap",
+				"C:/Users/WenYao/Documents/GroupDSmeltery/Smeltery/SmelteryProject/Content/untitled_category/untitled_asset/sb_walkway.uasset",
+				"C:/Users/WenYao/Documents/GroupDSmeltery/Smeltery/SmelteryProject/Content/untitled_category/untitled_asset/supportbeam_walkway.uasset",
+				"C:/Users/WenYao/Documents/GroupDSmeltery/Smeltery/SmelteryProject/Content/untitled_category/untitled_asset/supportbeam_walkway_crossvariant.uasset",
+				"C:/Users/WenYao/Documents/GroupDSmeltery/Smeltery/SmelteryProject/Content/untitled_category/sb_walkway.uasset",
+				"C:/Users/WenYao/Documents/GroupDSmeltery/Smeltery/SmelteryProject/Content/untitled_category/untitled_asset/supportbeam.uasset",
+				"C:/Users/WenYao/Documents/GroupDSmeltery/Smeltery/SmelteryProject/Content/untitled_category/untitled_asset/supportbeam_base.uasset",
+				"C:/Users/WenYao/Documents/GroupDSmeltery/Smeltery/SmelteryProject/Content/untitled_category/untitled_asset/supportbeam_walkway_base.uasset",
+				"C:/Users/WenYao/Documents/GroupDSmeltery/Smeltery/SmelteryProject/Content/untitled_category/untitled_asset/supportbeam_wall.uasset",
+				"C:/Users/WenYao/Documents/GroupDSmeltery/Smeltery/SmelteryProject/Content/untitled_category/untitled_asset/supportbeam_wall_base.uasset",
+				"C:/FactoryProject/Smeltery/SmelteryProject/Content/Maps/Mikail.umap",
+				"H:/Documents/General/Year3/Mod2-Adv3D/Assignment/Smeltery/SmelteryProject/Content/Maps/SmelteryLevel.umap",
+				"H:/Documents/General/Year3/Mod2-Adv3D/Assignment/Smeltery/SmelteryProject/Content/untitled_category/untitled_asset/DoorFrame.uasset",
+				"H:/Documents/General/Year3/Mod2-Adv3D/Assignment/Smeltery/SmelteryProject/Content/Maps/CallumLevel.umap",
+				"C:/Users/Callum Chandler/Documents/Uni-Games Production/Year3/Mod2-Adv3D/Assessment Work/Smeltery/SmelteryProject/Content/Maps/SmelteryLevel.umap",
+				"C:/Users/Callum Chandler/Documents/Uni-Games Production/Year3/Mod2-Adv3D/Assessment Work/Smeltery/SmelteryProject/Content/untitled_category/untitled_asset/DoorFrame.uasset",
+				"C:/Users/Callum Chandler/Documents/Uni-Games Production/Year3/Mod2-Adv3D/Assessment Work/Smeltery/SmelteryProject/Content/untitled_category/untitled_asset/Door.uasset",
+				"C:/Users/Callum Chandler/Documents/Uni-Games Production/Year3/Mod2-Adv3D/Assessment Work/Smeltery/SmelteryProject/Content/Maps/Assets.umap",
+				"H:/Documents/General/Year3/Mod2-Adv3D/Assignment/SmelteryProject/Content/Maps/SmelteryLevel.umap",
+				"H:/Documents/General/Year3/Mod2-Adv3D/Assignment/SmelteryProject/Content/untitled_category/untitled_asset/DoorFrame.uasset",
+				"H:/Documents/General/Year3/Mod2-Adv3D/Assignment/SmelteryProject/Content/untitled_category/untitled_asset/Wall.uasset",
+				"H:/Documents/General/Year3/Mod2-Adv3D/Assignment/SmelteryProject/Content/untitled_category/untitled_asset/Floor.uasset",
+				"H:/Documents/General/Year3/Mod2-Adv3D/Assignment/SmelteryProject/Content/untitled_category/untitled_asset/CornerWall.uasset"
+>>>>>>> Stashed changes
 			]
 		}
 	]
