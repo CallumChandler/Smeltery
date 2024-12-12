@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/GroupDSmeltery/Smeltery/SmelteryProject/Content/Maps/Assets.umap",
+				"C:/GroupDSmeltery/Smeltery/SmelteryProject/Content/untitled_category/untitled_asset/supportbeam.uasset",
+				"C:/GroupDSmeltery/Smeltery/SmelteryProject/Content/untitled_category/untitled_asset/supportbeam_base.uasset",
+				"C:/GroupDSmeltery/Smeltery/SmelteryProject/Content/untitled_category/untitled_asset/supportbeam_wall.uasset",
+				"C:/GroupDSmeltery/Smeltery/SmelteryProject/Content/untitled_category/untitled_asset/supportbeam_wall_base.uasset",
+				"C:/GroupDSmeltery/Smeltery/SmelteryProject/Content/untitled_category/untitled_asset/supportbeam_wall_base_001.uasset",
 				"H:/Documents/General/Year3/Mod2-Adv3D/Assignment/Smeltery/SmelteryProject/Content/Maps/Assets.umap",
 				"H:/Documents/General/Year3/Mod2-Adv3D/Assignment/Smeltery/SmelteryProject/Content/Maps/Main_Level.umap"
 			]
