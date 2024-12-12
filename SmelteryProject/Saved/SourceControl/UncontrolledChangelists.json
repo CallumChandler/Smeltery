@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"C:/Users/ray2d/OneDrive/Documents/Unreal Projects/smeltry_project/Smeltery/SmelteryProject/Content/Maps/Mikail.umap",
 				"C:/Users/ray2d/OneDrive/Documents/Unreal Projects/smeltry_project/Smeltery/SmelteryProject/Content/untitled_category/untitled_asset/Walkway.uasset",
 				"C:/Users/ray2d/OneDrive/Documents/Unreal Projects/smeltry_project/Smeltery/SmelteryProject/Content/untitled_category/untitled_asset/CornerRailing.uasset",
@@ -13,6 +14,37 @@
 				"C:/Users/ray2d/OneDrive/Documents/Unreal Projects/smeltry_project/Smeltery/SmelteryProject/Content/untitled_category/untitled_asset/RailTwoPoles.uasset",
 				"C:/Users/ray2d/OneDrive/Documents/Unreal Projects/smeltry_project/Smeltery/SmelteryProject/Content/untitled_category/untitled_asset/WalkwayFourWay.uasset",
 				"C:/Users/ray2d/OneDrive/Documents/Unreal Projects/smeltry_project/Smeltery/SmelteryProject/Content/untitled_category/untitled_asset/WalkwayRailing.uasset"
+=======
+				"C:/Users/jdtay/OneDrive/Desktop/Github Repo's/Factory Project/Smeltery/SmelteryProject/Content/Maps/Main_Level.umap",
+				"C:/Users/jdtay/OneDrive/Desktop/Github Repo's/Factory Project/Smeltery/SmelteryProject/Content/Maps/Beau_Level.umap",
+				"C:/Users/jdtay/OneDrive/Desktop/Github Repo's/Factory Project/Smeltery/SmelteryProject/Content/untitled_category/Models/CornerWall.uasset",
+				"C:/Users/jdtay/OneDrive/Desktop/Github Repo's/Factory Project/Smeltery/SmelteryProject/Content/untitled_category/untitled_asset/CornerWall.uasset",
+				"C:/Users/jdtay/OneDrive/Desktop/Github Repo's/Factory Project/Smeltery/SmelteryProject/Content/untitled_category/Models/Door.uasset",
+				"C:/Users/jdtay/OneDrive/Desktop/Github Repo's/Factory Project/Smeltery/SmelteryProject/Content/untitled_category/untitled_asset/Door.uasset",
+				"C:/Users/jdtay/OneDrive/Desktop/Github Repo's/Factory Project/Smeltery/SmelteryProject/Content/untitled_category/Models/DoorFrame.uasset",
+				"C:/Users/jdtay/OneDrive/Desktop/Github Repo's/Factory Project/Smeltery/SmelteryProject/Content/untitled_category/untitled_asset/DoorFrame.uasset",
+				"C:/Users/jdtay/OneDrive/Desktop/Github Repo's/Factory Project/Smeltery/SmelteryProject/Content/untitled_category/Models/Floor.uasset",
+				"C:/Users/jdtay/OneDrive/Desktop/Github Repo's/Factory Project/Smeltery/SmelteryProject/Content/untitled_category/untitled_asset/Floor.uasset",
+				"C:/Users/jdtay/OneDrive/Desktop/Github Repo's/Factory Project/Smeltery/SmelteryProject/Content/untitled_category/Models/Wall.uasset",
+				"C:/Users/jdtay/OneDrive/Desktop/Github Repo's/Factory Project/Smeltery/SmelteryProject/Content/untitled_category/untitled_asset/Wall.uasset",
+				"C:/Users/jdtay/OneDrive/Desktop/Github Repo's/Factory Project/Smeltery/SmelteryProject/Content/Models/Models/CornerWall.uasset",
+				"C:/Users/jdtay/OneDrive/Desktop/Github Repo's/Factory Project/Smeltery/SmelteryProject/Content/Models/untitled_asset/CornerWall.uasset",
+				"C:/Users/jdtay/OneDrive/Desktop/Github Repo's/Factory Project/Smeltery/SmelteryProject/Content/Models/Models/Door.uasset",
+				"C:/Users/jdtay/OneDrive/Desktop/Github Repo's/Factory Project/Smeltery/SmelteryProject/Content/Models/untitled_asset/Door.uasset",
+				"C:/Users/jdtay/OneDrive/Desktop/Github Repo's/Factory Project/Smeltery/SmelteryProject/Content/Models/Models/DoorFrame.uasset",
+				"C:/Users/jdtay/OneDrive/Desktop/Github Repo's/Factory Project/Smeltery/SmelteryProject/Content/Models/untitled_asset/DoorFrame.uasset",
+				"C:/Users/jdtay/OneDrive/Desktop/Github Repo's/Factory Project/Smeltery/SmelteryProject/Content/Models/Models/Floor.uasset",
+				"C:/Users/jdtay/OneDrive/Desktop/Github Repo's/Factory Project/Smeltery/SmelteryProject/Content/Models/untitled_asset/Floor.uasset",
+				"C:/Users/jdtay/OneDrive/Desktop/Github Repo's/Factory Project/Smeltery/SmelteryProject/Content/Models/Models/Wall.uasset",
+				"C:/Users/jdtay/OneDrive/Desktop/Github Repo's/Factory Project/Smeltery/SmelteryProject/Content/Models/untitled_asset/Wall.uasset",
+				"C:/Users/jdtay/OneDrive/Desktop/Github Repo's/Factory Project/Smeltery/SmelteryProject/Content/untitled_category/untitled_asset/CornerFloor.uasset",
+				"C:/Users/jdtay/OneDrive/Desktop/Github Repo's/Factory Project/Smeltery/SmelteryProject/Content/untitled_category/untitled_asset/Wall_001.uasset",
+				"C:/Users/jdtay/OneDrive/Desktop/Github Repo's/Factory Project/Smeltery/SmelteryProject/Content/untitled_category/untitled_asset/SharpCornerWall.uasset",
+				"C:/Users/jdtay/OneDrive/Desktop/Github Repo's/Factory Project/Smeltery/SmelteryProject/Content/untitled_category/untitled_asset/SmoothCornerFloor.uasset",
+				"C:/Users/jdtay/OneDrive/Desktop/Github Repo's/Factory Project/Smeltery/SmelteryProject/Content/untitled_category/untitled_asset/SmoothCurvedWall.uasset",
+				"C:/Users/jdtay/OneDrive/Desktop/Github Repo's/Factory Project/Smeltery/SmelteryProject/Content/untitled_category/untitled_asset/SmoothCornerWindow.uasset",
+				"C:/Users/jdtay/OneDrive/Desktop/Github Repo's/Factory Project/Smeltery/SmelteryProject/Content/untitled_category/untitled_asset/SmoothCurvedWindow.uasset"
+>>>>>>> 5376891df7cbfd41f23c2608fdc9e37ea54276b3
 			]
 		}
 	]
