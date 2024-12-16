@@ -5,32 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-<<<<<<< HEAD
 				"C:/Users/ray2d/OneDrive/Documents/Unreal Projects/smeltry_project/Smeltery/SmelteryProject/Content/Maps/SmelteryLevel.umap",
-=======
-				"C:/Users/jdtay/Desktop/Project/Smeltery/SmelteryProject/Content/Maps/Main_Level.umap",
-				"C:/Users/jdtay/Desktop/Project/Smeltery/SmelteryProject/Content/untitled_category/untitled_asset/SmoothCurvedRoof.uasset",
-				"C:/Users/jdtay/Desktop/Project/Smeltery/SmelteryProject/Content/untitled_category/untitled_asset/FlatRoof.uasset",
->>>>>>> 28334d9d3e2a93fd0fff0dfbf39aaaab77138480
-				"C:/Users/jdtay/OneDrive/Desktop/Github/Smeltery/SmelteryProject/Content/Maps/Main_Level.umap",
-				"C:/Users/jdtay/OneDrive/Desktop/Github/Smeltery/SmelteryProject/Content/Maps/Assets.umap",
-				"C:/Users/jdtay/OneDrive/Desktop/Github/Smeltery/SmelteryProject/Content/untitled_category/untitled_asset/Wall.uasset",
-				"C:/Users/jdtay/OneDrive/Desktop/Github/Smeltery/SmelteryProject/Content/untitled_category/untitled_asset/DoorFrame.uasset",
-				"C:/Users/jdtay/OneDrive/Desktop/Github/Smeltery/SmelteryProject/Content/untitled_category/untitled_asset/Floor.uasset",
-				"C:/Users/jdtay/OneDrive/Desktop/Github/Smeltery/SmelteryProject/Content/untitled_category/untitled_asset/SharpCornerWall.uasset",
-				"C:/Users/jdtay/OneDrive/Desktop/Github/Smeltery/SmelteryProject/Content/untitled_category/untitled_asset/SmoothCornerFloor.uasset",
-				"C:/Users/jdtay/OneDrive/Desktop/Github/Smeltery/SmelteryProject/Content/untitled_category/untitled_asset/SmoothCornerWindow.uasset",
-				"C:/Users/jdtay/OneDrive/Desktop/Github/Smeltery/SmelteryProject/Content/untitled_category/untitled_asset/SmoothCurvedWall.uasset",
-				"C:/Users/jdtay/OneDrive/Desktop/Github/Smeltery/SmelteryProject/Content/untitled_category/untitled_asset/SmoothCurvedWindow.uasset",
-				"C:/Users/jdtay/OneDrive/Desktop/Github/Smeltery/SmelteryProject/Content/untitled_category/untitled_asset/StraightWindow.uasset",
-				"C:/GroupDSmeltery/Smeltery/SmelteryProject/Content/Maps/Assets.umap",
-				"C:/GroupDSmeltery/Smeltery/SmelteryProject/Content/untitled_category/untitled_asset/supportbeam.uasset",
-				"C:/GroupDSmeltery/Smeltery/SmelteryProject/Content/untitled_category/untitled_asset/supportbeam_base.uasset",
-				"C:/GroupDSmeltery/Smeltery/SmelteryProject/Content/untitled_category/untitled_asset/supportbeam_wall.uasset",
-				"C:/GroupDSmeltery/Smeltery/SmelteryProject/Content/untitled_category/untitled_asset/supportbeam_wall_base.uasset",
-				"C:/GroupDSmeltery/Smeltery/SmelteryProject/Content/untitled_category/untitled_asset/supportbeam_wall_base_001.uasset",
-				"H:/Documents/General/Year3/Mod2-Adv3D/Assignment/Smeltery/SmelteryProject/Content/Maps/Assets.umap",
-				"H:/Documents/General/Year3/Mod2-Adv3D/Assignment/Smeltery/SmelteryProject/Content/Maps/Main_Level.umap"
+				"C:/Users/ray2d/OneDrive/Documents/Unreal Projects/smeltry_project/Smeltery/SmelteryProject/Content/untitled_category/untitled_asset/DanglingChain.uasset",
+				"C:/Users/ray2d/OneDrive/Documents/Unreal Projects/smeltry_project/Smeltery/SmelteryProject/Content/untitled_category/untitled_asset/Material.uasset",
+				"C:/Users/ray2d/OneDrive/Documents/Unreal Projects/smeltry_project/Smeltery/SmelteryProject/Content/Maps/Mikail.umap"
 			]
 		}
 	]
