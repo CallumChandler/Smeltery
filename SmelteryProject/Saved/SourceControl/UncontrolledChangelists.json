@@ -5,7 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"C:/Users/ray2d/OneDrive/Documents/Unreal Projects/smeltry_project/Smeltery/SmelteryProject/Content/Maps/SmelteryLevel.umap",
+=======
+				"C:/Users/jdtay/Desktop/Project/Smeltery/SmelteryProject/Content/Maps/Main_Level.umap",
+				"C:/Users/jdtay/Desktop/Project/Smeltery/SmelteryProject/Content/untitled_category/untitled_asset/SmoothCurvedRoof.uasset",
+				"C:/Users/jdtay/Desktop/Project/Smeltery/SmelteryProject/Content/untitled_category/untitled_asset/FlatRoof.uasset",
+>>>>>>> 28334d9d3e2a93fd0fff0dfbf39aaaab77138480
 				"C:/Users/jdtay/OneDrive/Desktop/Github/Smeltery/SmelteryProject/Content/Maps/Main_Level.umap",
 				"C:/Users/jdtay/OneDrive/Desktop/Github/Smeltery/SmelteryProject/Content/Maps/Assets.umap",
 				"C:/Users/jdtay/OneDrive/Desktop/Github/Smeltery/SmelteryProject/Content/untitled_category/untitled_asset/Wall.uasset",
