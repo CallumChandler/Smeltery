@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Smeltery/SmelteryProject/Content/Maps/Main_Level.umap",
+				"C:/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Rooms/FactoryFloorAssets/FI-041_Factory_Floor_Roof.uasset",
+				"C:/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Rooms/FactoryFloorAssets/FI-043_Factory_Floor_Window_Filler.uasset",
+				"C:/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Rooms/FactoryFloorAssets/FI-042_Factory_Floor_Wall_Filler.uasset",
 				"C:/Users/ray2d/OneDrive/Documents/Unreal Projects/smeltry_project/Smeltery/SmelteryProject/Content/Maps/SmelteryLevel.umap",
 				"C:/Users/ray2d/OneDrive/Documents/Unreal Projects/smeltry_project/Smeltery/SmelteryProject/Content/Maps/Mikail.umap",
 				"C:/Users/ray2d/OneDrive/Documents/Unreal Projects/smeltry_project/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Decorative/FD-001-CurvedChain.uasset",
