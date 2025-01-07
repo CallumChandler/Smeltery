@@ -5,7 +5,22 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/jdtay/Desktop/Project/Smeltery/SmelteryProject/Content/Maps/Main_Level.umap"
+				"C:/Users/jdtay/Desktop/Project/Smeltery/SmelteryProject/Content/Maps/Main_Level.umap",
+				"C:/Users/jdtay/Desktop/Project/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Rooms/SmartHallway/FI-037_Sharp_Corner_HallWay_Wall.uasset",
+				"C:/Users/jdtay/Desktop/Project/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Rooms/SmartHallway/FI-036_HallWay_Wall.uasset",
+				"C:/Users/jdtay/Desktop/Project/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Rooms/ObservatoryAssets/FI-026-Observatory_DoorFrame.uasset",
+				"C:/Users/jdtay/Desktop/Project/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Rooms/SmartHallway/FI-044_Overseer_HallWay_Wall.uasset",
+				"C:/Users/jdtay/Desktop/Project/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Rooms/SmartHallway/FI-045_Overseer_HallWay_Sharp_Corner.uasset",
+				"C:/Users/jdtay/Desktop/Project/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Rooms/SmartHallway/FI-046_Overseer_Hallway_Floor.uasset",
+				"C:/Users/jdtay/Desktop/Project/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Rooms/SmartHallway/FI-047_Overseer_Hallway_T-Floor.uasset",
+				"C:/Users/jdtay/Desktop/Project/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Rooms/OverseerHallway/FI-047_Overseer_Hallway_T-Floor.uasset",
+				"C:/Users/jdtay/Desktop/Project/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Rooms/OverseerHallway/FI-044_Overseer_HallWay_Wall.uasset",
+				"C:/Users/jdtay/Desktop/Project/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Rooms/OverseerHallway/FI-045_Overseer_HallWay_Sharp_Corner.uasset",
+				"C:/Users/jdtay/Desktop/Project/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Rooms/OverseerHallway/FI-046_Overseer_Hallway_Floor.uasset",
+				"C:/Users/jdtay/Desktop/Project/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Rooms/OverseerHallway/FI-048_Overseer_Hallway_Invert_Sharp_Corner.uasset",
+				"C:/Users/jdtay/Desktop/Project/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Rooms/SmartHallway/FI-048_Overseer_Hallway_Invert_Sharp_Corner.uasset",
+				"C:/Users/jdtay/Desktop/Project/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Interior/FI-005-Walkway.uasset",
+				"C:/Users/jdtay/Desktop/Project/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Interior/FI-005-WalkwayFourWay.uasset"
 			]
 		}
 	]
