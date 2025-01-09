@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Project/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Rooms/SmelterAssets/FI-069_Smelter_Room.uasset",
+				"C:/Project/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Rooms/SmelterAssets/FI-76_Smeltery_DoorFrame.uasset",
+				"C:/Project/Smeltery/SmelteryProject/Content/Maps/Main_Level.umap",
 				"C:/Users/ray2d/OneDrive/Documents/Unreal Projects/smeltry_project/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Interior/CatwalkGrid.uasset",
 				"C:/Users/ray2d/OneDrive/Documents/Unreal Projects/smeltry_project/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Interior/FI-005_Walkways.uasset",
 				"C:/Users/ray2d/OneDrive/Documents/Unreal Projects/smeltry_project/Smeltery/SmelteryProject/Content/Maps/Main_Level.umap",
