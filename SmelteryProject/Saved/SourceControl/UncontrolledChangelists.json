@@ -6,6 +6,10 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineMaterials/WorldGridMaterial.uasset",
+				"C:/Users/jdtay/Desktop/Project/Smeltery/SmelteryProject/Content/Maps/Main_Level.umap",
+				"C:/Users/jdtay/Desktop/Project/Smeltery/SmelteryProject/Content/Assets/Textures/Emission_001.uasset",
+				"C:/Users/jdtay/Desktop/Project/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Interior/FI-005_Walkways-T.uasset",
+				"C:/Users/jdtay/Desktop/Project/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Interior/FI-005_WalkwaysCorner.uasset",
 				"C:/Project/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Rooms/FactoryFloorAssets/FI-034_Factory_Floor_Doorframe.uasset",
 				"C:/Project/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Interior/FI-005_Walkways.uasset",
 				"C:/Project/Smeltery/SmelteryProject/Content/Maps/Main_Level.umap",
