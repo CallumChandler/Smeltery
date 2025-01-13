@@ -5,6 +5,17 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineMaterials/WorldGridMaterial.uasset",
+				"C:/Users/ray2d/OneDrive/Documents/Unreal Projects/smeltry_project/Smeltery/SmelteryProject/Content/Maps/Main_Level.umap",
+				"C:/Users/ray2d/OneDrive/Documents/Unreal Projects/smeltry_project/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Interior/CatwalkBase.uasset",
+				"C:/Users/ray2d/OneDrive/Documents/Unreal Projects/smeltry_project/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Interior/FI-005_WalkwaysCorner.uasset",
+				"C:/Users/ray2d/OneDrive/Documents/Unreal Projects/smeltry_project/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Interior/CatwalkBaseNormal.uasset",
+				"C:/Users/ray2d/OneDrive/Documents/Unreal Projects/smeltry_project/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Interior/CatwalkGrid.uasset",
+				"C:/Users/ray2d/OneDrive/Documents/Unreal Projects/smeltry_project/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Interior/FI-005_Walkways-T.uasset",
+				"C:/Users/ray2d/OneDrive/Documents/Unreal Projects/smeltry_project/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Interior/FI-005_Walkways-X.uasset",
+				"C:/Users/ray2d/OneDrive/Documents/Unreal Projects/smeltry_project/Smeltery/SmelteryProject/Content/Assets/GroupedAssets/BP_BigPallet1.uasset",
+				"C:/Users/ray2d/OneDrive/Documents/Unreal Projects/smeltry_project/Smeltery/SmelteryProject/Content/Maps/Mikail.umap",
+				"C:/Users/ray2d/OneDrive/Documents/Unreal Projects/smeltry_project/Smeltery/SmelteryProject/Content/Assets/GroupedAssets/BP_BigPallet2.uasset",
 				"C:/Users/Callum Chandler/Documents/Uni-Games Production/Year3/Mod2-Adv3D/Assessment Work/Smeltery/SmelteryProject/Content/Maps/Main_Level.umap",
 				"C:/Users/Callum Chandler/Documents/Uni-Games Production/Year3/Mod2-Adv3D/Assessment Work/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Machinery/FM-001-ConveyerBelt-Middle.uasset",
 				"C:/Users/Callum Chandler/Documents/Uni-Games Production/Year3/Mod2-Adv3D/Assessment Work/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Machinery/FM-001-ConveyerBelt-End.uasset",
@@ -14,7 +25,6 @@
 				"C:/Users/Callum Chandler/Documents/Uni-Games Production/Year3/Mod2-Adv3D/Assessment Work/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Machinery/FM-006-IronCast.uasset",
 				"C:/Users/Callum Chandler/Documents/Uni-Games Production/Year3/Mod2-Adv3D/Assessment Work/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Machinery/FM-011-ConveyerBelt-Corner.uasset",
 				"C:/Users/Callum Chandler/Documents/Uni-Games Production/Year3/Mod2-Adv3D/Assessment Work/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Machinery/FM-012-ConveyerBelt-Cross.uasset",
-				"C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineMaterials/WorldGridMaterial.uasset",
 				"C:/Users/jdtay/Desktop/Project/Smeltery/SmelteryProject/Content/Maps/Main_Level.umap",
 				"C:/Users/jdtay/Desktop/Project/Smeltery/SmelteryProject/Content/Assets/Textures/Emission_001.uasset",
 				"C:/Users/jdtay/Desktop/Project/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Interior/FI-005_Walkways-T.uasset",
@@ -24,14 +34,7 @@
 				"C:/Project/Smeltery/SmelteryProject/Content/Maps/Main_Level.umap",
 				"C:/Project/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Interior/FI-005_Walkways-T.uasset",
 				"C:/Project/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Interior/FI-005_Walkways-X.uasset",
-				"C:/Project/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Interior/FI-005_WalkwaysCorner.uasset",
-				"C:/Users/ray2d/OneDrive/Documents/Unreal Projects/smeltry_project/Smeltery/SmelteryProject/Content/Maps/Main_Level.umap",
-				"C:/Users/ray2d/OneDrive/Documents/Unreal Projects/smeltry_project/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Interior/CatwalkBase.uasset",
-				"C:/Users/ray2d/OneDrive/Documents/Unreal Projects/smeltry_project/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Interior/FI-005_WalkwaysCorner.uasset",
-				"C:/Users/ray2d/OneDrive/Documents/Unreal Projects/smeltry_project/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Interior/CatwalkBaseNormal.uasset",
-				"C:/Users/ray2d/OneDrive/Documents/Unreal Projects/smeltry_project/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Interior/CatwalkGrid.uasset",
-				"C:/Users/ray2d/OneDrive/Documents/Unreal Projects/smeltry_project/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Interior/FI-005_Walkways-T.uasset",
-				"C:/Users/ray2d/OneDrive/Documents/Unreal Projects/smeltry_project/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Interior/FI-005_Walkways-X.uasset"
+				"C:/Project/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Interior/FI-005_WalkwaysCorner.uasset"
 			]
 		}
 	]
