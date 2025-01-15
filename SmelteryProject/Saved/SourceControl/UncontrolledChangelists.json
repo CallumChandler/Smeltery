@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"C:/Users/ray2d/OneDrive/Documents/Unreal Projects/smeltry_project/Smeltery/SmelteryProject/Content/untitled_category/untitled_asset/FactoryMainLights.uasset",
 				"C:/Users/ray2d/OneDrive/Documents/Unreal Projects/smeltry_project/Smeltery/SmelteryProject/Content/untitled_category/untitled_asset/FD-006_Main_Light_Main.uasset",
 				"C:/Users/ray2d/OneDrive/Documents/Unreal Projects/smeltry_project/Smeltery/SmelteryProject/Content/untitled_category/untitled_asset/FD-006_Main_Light_Red_Wire.uasset",
@@ -21,6 +22,11 @@
 				"C:/Users/ray2d/OneDrive/Documents/Unreal Projects/smeltry_project/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Decorative/FD-001-CurvedChain.uasset",
 				"C:/Users/ray2d/OneDrive/Documents/Unreal Projects/smeltry_project/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Decorative/FD-001-SingleChain.uasset",
 				"C:/Users/ray2d/OneDrive/Documents/Unreal Projects/smeltry_project/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Decorative/Chain.uasset",
+=======
+				"C:/Users/jdtay/Desktop/Project/Smeltery/SmelteryProject/Content/Maps/Main_Level.umap",
+				"C:/Users/jdtay/Desktop/Project/Smeltery/SmelteryProject/Content/Assets/GroupedAssets/NormalLight.uasset",
+				"C:/Users/jdtay/Desktop/Project/Smeltery/SmelteryProject/Content/Assets/Textures/Emission_001.uasset",
+>>>>>>> 1068ee46ed12814074e051516c6e0913486727df
 				"C:/Users/Callum Chandler/Documents/Uni-Games Production/Year3/Mod2-Adv3D/Assessment Work/Smeltery/SmelteryProject/Content/Assets/Textures/Lights/HangingLightNormals.uasset",
 				"C:/Users/Callum Chandler/Documents/Uni-Games Production/Year3/Mod2-Adv3D/Assessment Work/Smeltery/SmelteryProject/Content/Assets/Textures/Lights/HangingLightEmission.uasset",
 				"C:/Users/Callum Chandler/Documents/Uni-Games Production/Year3/Mod2-Adv3D/Assessment Work/Smeltery/SmelteryProject/Content/Assets/Textures/Lights/HangingLightDiffuse.uasset",
