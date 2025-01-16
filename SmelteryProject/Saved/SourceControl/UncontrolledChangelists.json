@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/ray2d/OneDrive/Documents/Unreal Projects/smeltry_project/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Decorative/DoorLight.uasset",
+				"C:/Users/ray2d/OneDrive/Documents/Unreal Projects/smeltry_project/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Decorative/FD-006-DoorLight.uasset",
+				"C:/Users/ray2d/OneDrive/Documents/Unreal Projects/smeltry_project/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Decorative/DoorLightDetailed.uasset",
+				"C:/Users/ray2d/OneDrive/Documents/Unreal Projects/smeltry_project/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Decorative/DoorLightEmissive.uasset",
+				"C:/Users/ray2d/OneDrive/Documents/Unreal Projects/smeltry_project/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Decorative/DoorLightMetallic.uasset",
 				"C:/Project/Smeltery/SmelteryProject/Content/Maps/Main_Level.umap",
 				"C:/Project/Smeltery/SmelteryProject/Content/Assets/GroupedAssets/HangingLight.uasset",
 				"C:/Project/Smeltery/SmelteryProject/Content/Assets/Textures/Emission_001.uasset",
