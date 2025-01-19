@@ -5,6 +5,17 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Callum Chandler/Documents/Uni-Games Production/Year3/Mod2-Adv3D/Assessment Work/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Machinery/FM-002-MoldingMachine.uasset",
+				"C:/Users/Callum Chandler/Documents/Uni-Games Production/Year3/Mod2-Adv3D/Assessment Work/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Materials+Textures/Machinary/MetalMach_TrimSmooth.uasset",
+				"C:/Users/Callum Chandler/Documents/Uni-Games Production/Year3/Mod2-Adv3D/Assessment Work/Smeltery/SmelteryProject/Content/Maps/Main_Level.umap",
+				"C:/Users/Callum Chandler/Documents/Uni-Games Production/Year3/Mod2-Adv3D/Assessment Work/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Materials+Textures/Machinary/MetalMachinaryTrimDiffuse.uasset",
+				"C:/Users/Callum Chandler/Documents/Uni-Games Production/Year3/Mod2-Adv3D/Assessment Work/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Materials+Textures/Machinary/MetalMachinaryTrimNormals.uasset",
+				"C:/Users/Callum Chandler/Documents/Uni-Games Production/Year3/Mod2-Adv3D/Assessment Work/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Materials+Textures/Machinary/MetalMachinaryTrimRoughness.uasset",
+				"C:/Users/Callum Chandler/Documents/Uni-Games Production/Year3/Mod2-Adv3D/Assessment Work/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Machinery/FM-001-ConveyerBelt-Middle.uasset",
+				"C:/Users/Callum Chandler/Documents/Uni-Games Production/Year3/Mod2-Adv3D/Assessment Work/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Machinery/FM-001-ConveyerBelt.uasset",
+				"C:/Users/Callum Chandler/Documents/Uni-Games Production/Year3/Mod2-Adv3D/Assessment Work/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Machinery/FM-001-ConveyerBelt-End.uasset",
+				"C:/Users/Callum Chandler/Documents/Uni-Games Production/Year3/Mod2-Adv3D/Assessment Work/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Machinery/FM-011-ConveyerBelt-Corner.uasset",
+				"C:/Users/Callum Chandler/Documents/Uni-Games Production/Year3/Mod2-Adv3D/Assessment Work/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Machinery/FM-012-ConveyerBelt-Cross.uasset",
 				"C:/Users/ray2d/OneDrive/Documents/Unreal Projects/smeltry_project/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Machinery/FM-005_Pulleys_FM-005-Pulley-Stand.uasset",
 				"C:/Users/ray2d/OneDrive/Documents/Unreal Projects/smeltry_project/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Machinery/FM-005_Pulleys_FM-005-PulleyHook.uasset",
 				"C:/Users/ray2d/OneDrive/Documents/Unreal Projects/smeltry_project/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Machinery/FM-005_Pulleys_FM-005-PulleyLift2.uasset",
@@ -28,15 +39,6 @@
 				"C:/Users/ray2d/OneDrive/Documents/Unreal Projects/smeltry_project/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Materials+Textures/Machinary/Pulley/Mat_PulleyRails.uasset",
 				"C:/Users/ray2d/OneDrive/Documents/Unreal Projects/smeltry_project/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Materials+Textures/Machinary/Pulley/Metal046B_1K-PNG_NormalDX.uasset",
 				"C:/Users/ray2d/OneDrive/Documents/Unreal Projects/smeltry_project/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Materials+Textures/Machinary/Pulleys.uasset",
-				"C:/Users/Callum Chandler/Documents/Uni-Games Production/Year3/Mod2-Adv3D/Assessment Work/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Machinery/FM-002-MoldingMachine.uasset",
-				"C:/Users/Callum Chandler/Documents/Uni-Games Production/Year3/Mod2-Adv3D/Assessment Work/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Materials+Textures/Machinary/MetalMach_TrimSmooth.uasset",
-				"C:/Users/Callum Chandler/Documents/Uni-Games Production/Year3/Mod2-Adv3D/Assessment Work/Smeltery/SmelteryProject/Content/Maps/Main_Level.umap",
-				"C:/Users/Callum Chandler/Documents/Uni-Games Production/Year3/Mod2-Adv3D/Assessment Work/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Materials+Textures/Machinary/MetalMachinaryTrimDiffuse.uasset",
-				"C:/Users/Callum Chandler/Documents/Uni-Games Production/Year3/Mod2-Adv3D/Assessment Work/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Materials+Textures/Machinary/MetalMachinaryTrimNormals.uasset",
-				"C:/Users/Callum Chandler/Documents/Uni-Games Production/Year3/Mod2-Adv3D/Assessment Work/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Materials+Textures/Machinary/MetalMachinaryTrimRoughness.uasset",
-				"C:/Users/Callum Chandler/Documents/Uni-Games Production/Year3/Mod2-Adv3D/Assessment Work/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Machinery/FM-001-ConveyerBelt-Middle.uasset",
-				"C:/Users/Callum Chandler/Documents/Uni-Games Production/Year3/Mod2-Adv3D/Assessment Work/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Machinery/FM-001-ConveyerBelt.uasset",
-				"C:/Users/Callum Chandler/Documents/Uni-Games Production/Year3/Mod2-Adv3D/Assessment Work/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Machinery/FM-001-ConveyerBelt-End.uasset",
 				"C:/Users/Callum Chandler/Documents/Uni-Games Production/Year3/Mod2-Adv3D/Assessment Work/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Materials+Textures/Machinary/MetalMach_Trim1.uasset"
 			]
 		}
