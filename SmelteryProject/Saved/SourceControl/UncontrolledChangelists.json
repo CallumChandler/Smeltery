@@ -5,9 +5,47 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< Updated upstream
 				"C:/Users/ray2d/OneDrive/Documents/Unreal Projects/smeltry_project/Smeltery/SmelteryProject/Content/Assets/GroupedAssets/BP_BigPallet1.uasset",
 				"C:/Users/ray2d/OneDrive/Documents/Unreal Projects/smeltry_project/Smeltery/SmelteryProject/Content/Assets/GroupedAssets/BP_BigPallet2.uasset",
 				"C:/Users/ray2d/OneDrive/Documents/Unreal Projects/smeltry_project/Smeltery/SmelteryProject/Content/Maps/Main_Level.umap"
+=======
+				"C:/Users/WenYao/Documents/GroupDSmeltery/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Interior/FI-039-SupportBeam_Wall.uasset",
+				"C:/Users/WenYao/Documents/GroupDSmeltery/Smeltery/SmelteryProject/Content/Maps/WenYaoLevel.umap",
+				"C:/Users/WenYao/Documents/GroupDSmeltery/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Interior/FI-040-SupportBeam_Wall_Base1.uasset",
+				"C:/Users/WenYao/Documents/GroupDSmeltery/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Interior/SBWB_Normal.uasset",
+				"C:/Users/WenYao/Documents/GroupDSmeltery/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Interior/SupportBeam_Normal.uasset",
+				"C:/Users/WenYao/Documents/GroupDSmeltery/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Interior/SBW_Material.uasset",
+				"C:/Users/WenYao/Documents/GroupDSmeltery/Smeltery/SmelteryProject/Content/untitled_category/untitled_asset/SBW_Material.uasset",
+				"C:/Users/WenYao/Documents/GroupDSmeltery/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Interior/SB_Material.uasset",
+				"C:/Users/WenYao/Documents/GroupDSmeltery/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Interior/SBB_Material.uasset",
+				"C:/Users/WenYao/Documents/GroupDSmeltery/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Interior/FI-035-SupportBeam.uasset",
+				"C:/Users/WenYao/Documents/GroupDSmeltery/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Interior/FI-036-SupportBeam_Base.uasset",
+				"C:/Users/WenYao/Documents/GroupDSmeltery/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Interior/sb_walkway.uasset",
+				"C:/Users/WenYao/Documents/GroupDSmeltery/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Interior/SBWW_Material.uasset",
+				"C:/Users/WenYao/Documents/GroupDSmeltery/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Interior/FI-012-supportbeam_walkway_crossvariant.uasset",
+				"C:/Users/WenYao/Documents/GroupDSmeltery/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Interior/SB_Normal.uasset",
+				"C:/Users/WenYao/Documents/GroupDSmeltery/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Interior/SBB_Normal.uasset",
+				"C:/Users/WenYao/Documents/GroupDSmeltery/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Interior/SupportBeam_texture3.uasset",
+				"C:/Users/WenYao/Documents/GroupDSmeltery/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Interior/SBWC_Material.uasset",
+				"C:/Users/WenYao/Documents/GroupDSmeltery/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Interior/FI-037-SupportBeam_Walkway.uasset",
+				"C:/Users/WenYao/Documents/GroupDSmeltery/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Interior/FI-038-SupportBeam_Walkway_Base.uasset",
+				"C:/Users/WenYao/Documents/GroupDSmeltery/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Interior/FI-078-SupportBeam_Wall_Connector.uasset",
+				"C:/Users/WenYao/Documents/GroupDSmeltery/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Interior/SBWC_Normal.uasset",
+				"C:/Users/WenYao/Documents/GroupDSmeltery/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Interior/SBH_Material.uasset",
+				"C:/Users/WenYao/Documents/GroupDSmeltery/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Interior/FI-080-SupporBeam_Horizontal.uasset",
+				"C:/Users/WenYao/Documents/GroupDSmeltery/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Interior/SBH_Normal.uasset",
+				"C:/Users/WenYao/Documents/GroupDSmeltery/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Interior/SBWH_Material.uasset",
+				"C:/Users/WenYao/Documents/GroupDSmeltery/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Interior/SBC_Materia1.uasset",
+				"C:/Users/WenYao/Documents/GroupDSmeltery/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Interior/SBC_Material.uasset",
+				"C:/Users/WenYao/Documents/GroupDSmeltery/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Interior/FI-081-SupportBeam_Connector.uasset",
+				"C:/Users/WenYao/Documents/GroupDSmeltery/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Interior/FI-079-SupportBeam_Wall_Horizontal.uasset",
+				"C:/Users/WenYao/Documents/GroupDSmeltery/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Interior/SBC_Normal.uasset",
+				"C:/Users/WenYao/Documents/GroupDSmeltery/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Interior/SBWH_Normal.uasset",
+				"C:/Users/WenYao/Documents/GroupDSmeltery/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Interior/SupportBeam_texture6.uasset",
+				"C:/Users/WenYao/Documents/GroupDSmeltery/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Interior/SupportBeam_texture7.uasset",
+				"C:/Users/jdtay/Desktop/Project/Smeltery/SmelteryProject/Content/Maps/Main_Level.umap"
+>>>>>>> Stashed changes
 			]
 		}
 	]
