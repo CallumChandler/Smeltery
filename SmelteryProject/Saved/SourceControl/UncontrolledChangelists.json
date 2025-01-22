@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"C:/Users/ray2d/OneDrive/Documents/Unreal Projects/smeltry_project/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Interior/FI-040-SupportBeam_Wall_Base1.uasset",
 				"C:/Users/ray2d/OneDrive/Documents/Unreal Projects/smeltry_project/Smeltery/SmelteryProject/Content/Assets/GroupedAssets/BP_BigPallet1.uasset",
 				"C:/Users/ray2d/OneDrive/Documents/Unreal Projects/smeltry_project/Smeltery/SmelteryProject/Content/Assets/GroupedAssets/BP_BigPallet2.uasset",
@@ -42,6 +43,49 @@
 				"C:/Users/ray2d/OneDrive/Documents/Unreal Projects/smeltry_project/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Materials+Textures/plant/PlantRoughness.uasset",
 				"C:/Users/ray2d/OneDrive/Documents/Unreal Projects/smeltry_project/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Miscellanious/Plant.uasset",
 				"C:/Users/jdtay/Desktop/Project/Smeltery/SmelteryProject/Content/Maps/Main_Level.umap"
+=======
+				"C:/Users/jdtay/Desktop/Project/Smeltery/SmelteryProject/Content/Maps/Main_Level.umap",
+				"C:/Users/jdtay/Desktop/Project/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Materials+Textures/FactoryFloor/GridConcreteFloor.uasset",
+				"C:/Users/jdtay/Desktop/Project/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Materials+Textures/FactoryFloor/RedLeatherTextures/Roughness.uasset",
+				"C:/Users/jdtay/Desktop/Project/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Materials+Textures/FactoryFloor/RedLeatherTextures/Normal.uasset",
+				"C:/Users/jdtay/Desktop/Project/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Materials+Textures/FactoryFloor/RedLeather.uasset",
+				"C:/Users/jdtay/Desktop/Project/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Materials+Textures/FactoryFloor/RedLeatherTextures/Base_Colour.uasset",
+				"C:/Users/jdtay/Desktop/Project/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Rooms/ObservatoryAssets/FI-023-Observatory_SharpCornerGroundWall.uasset",
+				"C:/Users/jdtay/Desktop/Project/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Materials+Textures/FactoryFloor/RedLeatherWall_Inst.uasset",
+				"C:/Users/jdtay/Desktop/Project/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Materials+Textures/FactoryFloor/StylizedWoodFloor.uasset",
+				"C:/Users/jdtay/Desktop/Project/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Rooms/ObservatoryAssets/FI-016-Observatory_Roof.uasset",
+				"C:/Users/jdtay/Desktop/Project/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Rooms/ObservatoryAssets/FI-022_Observatory_TopWall.uasset",
+				"C:/Users/jdtay/Desktop/Project/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Rooms/ObservatoryAssets/FI-021-Observatory_SmoothCurvedRoof.uasset",
+				"C:/Users/jdtay/Desktop/Project/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Rooms/ObservatoryAssets/FI-015-Observatory_Floor.uasset",
+				"C:/Users/jdtay/Desktop/Project/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Rooms/ControlRoomAssets/FI-085_Control_Room_Floor.uasset",
+				"C:/Users/jdtay/Desktop/Project/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Rooms/ObservatoryAssets/FI-014-Observatory_GroundWall.uasset",
+				"C:/Users/jdtay/Desktop/Project/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Rooms/ObservatoryAssets/FI-025-Observatory_Sharp_Corner_Roof.uasset",
+				"C:/Users/jdtay/Desktop/Project/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Rooms/OverseerHallway/FI-044_Observatory_HallWay_Wall.uasset",
+				"C:/Users/jdtay/Desktop/Project/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Materials+Textures/FactoryFloor/ObsHallway.uasset",
+				"C:/Users/jdtay/Desktop/Project/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Materials+Textures/FactoryFloor/ObservatoryHallwayTextures/Roughness.uasset",
+				"C:/Users/jdtay/Desktop/Project/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Materials+Textures/FactoryFloor/ObservatoryHallwayTextures/Normal.uasset",
+				"C:/Users/jdtay/Desktop/Project/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Materials+Textures/FactoryFloor/ObservatoryHallwayTextures/Base_Colour.uasset",
+				"C:/Users/jdtay/Desktop/Project/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Materials+Textures/FactoryFloor/ObsHallway_Inst.uasset",
+				"C:/Users/jdtay/Desktop/Project/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Rooms/OverseerHallway/FI-044_Overseer_HallWay_Wall.uasset",
+				"C:/Users/jdtay/Desktop/Project/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Rooms/ObservatoryAssets/FI-026-Observatory_DoorFrame.uasset",
+				"C:/Users/jdtay/Desktop/Project/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Rooms/OverseerHallway/FI-045_Observatory_HallWay_Sharp_Corner.uasset",
+				"C:/Users/jdtay/Desktop/Project/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Rooms/OverseerHallway/FI-045_Overseer_HallWay_Sharp_Corner.uasset",
+				"C:/Users/jdtay/Desktop/Project/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Rooms/OverseerHallway/FI-048_Observatory_Hallway_Invert_Sharp_Corner.uasset",
+				"C:/Users/jdtay/Desktop/Project/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Rooms/OverseerHallway/FI-048_Overseer_Hallway_Invert_Sharp_Corner.uasset",
+				"C:/Users/jdtay/Desktop/Project/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Rooms/CommunalHallway/FI-083_Communal_Hallway_Roof.uasset",
+				"C:/Users/jdtay/Desktop/Project/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Rooms/ControlRoomAssets/FI-087_Smeltery_GroundWallCorner.uasset",
+				"C:/Users/jdtay/Desktop/Project/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Rooms/ControlRoomAssets/FI-086_Smeltery_GroundWall.uasset",
+				"C:/Users/jdtay/Desktop/Project/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Rooms/ControlRoomAssets/FI-089_Smeltery_TopWall.uasset",
+				"C:/Users/jdtay/Desktop/Project/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Rooms/ControlRoomAssets/FI-088_Smeltery_Sharp_Corner_Top_Wall.uasset",
+				"C:/Users/jdtay/Desktop/Project/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Materials+Textures/FactoryFloor/ControlRoomTextures/Base_Colour.uasset",
+				"C:/Users/jdtay/Desktop/Project/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Materials+Textures/FactoryFloor/ControlRoomTextures/Normal.uasset",
+				"C:/Users/jdtay/Desktop/Project/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Materials+Textures/FactoryFloor/ControlRoomTextures/Roughness.uasset",
+				"C:/Users/jdtay/Desktop/Project/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Materials+Textures/FactoryFloor/ControlRoom.uasset",
+				"C:/Users/jdtay/Desktop/Project/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Materials+Textures/FactoryFloor/ControlRoom_Inst.uasset",
+				"C:/Users/jdtay/Desktop/Project/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Rooms/ControlRoomAssets/FI-090_Smeltery_DoorFrame.uasset",
+				"C:/Users/jdtay/Desktop/Project/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Materials+Textures/FactoryFloor/RedLeatherTextures/Base_Colour_001.uasset",
+				"C:/Users/jdtay/Desktop/Project/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Materials+Textures/FactoryFloor/RedLeather_Inst.uasset"
+>>>>>>> de95bdd22663ebf145bff8e1a712130c6b4e4d75
 			]
 		}
 	]
