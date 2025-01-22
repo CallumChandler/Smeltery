@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< Updated upstream
 				"C:/Users/ray2d/OneDrive/Documents/Unreal Projects/smeltry_project/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Materials+Textures/Frames/Mat_Picture_Frames.uasset",
 				"C:/Users/ray2d/OneDrive/Documents/Unreal Projects/smeltry_project/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Materials+Textures/Frames/Mat_GearPicture.uasset",
 				"C:/Users/ray2d/OneDrive/Documents/Unreal Projects/smeltry_project/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Miscellanious/PictureFrame1.uasset",
@@ -18,6 +19,12 @@
 				"C:/Users/ray2d/OneDrive/Documents/Unreal Projects/smeltry_project/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Materials+Textures/CircuitMachine/WallMachineMetallic.uasset",
 				"C:/Users/ray2d/OneDrive/Documents/Unreal Projects/smeltry_project/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Materials+Textures/CircuitMachine/WallMachineSpec.uasset",
 				"C:/Users/ray2d/OneDrive/Documents/Unreal Projects/smeltry_project/Smeltery/SmelteryProject/Content/Maps/Mikail.umap",
+=======
+				"C:/GroupDSmeltery/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Interior/SBCB_Material.uasset",
+				"C:/GroupDSmeltery/Smeltery/SmelteryProject/Content/Maps/WenYaoLevel.umap",
+				"C:/GroupDSmeltery/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Interior/FI-082-SupportBeam_Connector_Base.uasset",
+				"C:/GroupDSmeltery/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Interior/SBCB_Normal.uasset",
+>>>>>>> Stashed changes
 				"H:/Documents/General/Y3M2-A/Smeltery/SmelteryProject/Content/Maps/Assets.umap",
 				"H:/Documents/General/Y3M2-A/Smeltery/SmelteryProject/Content/Maps/Asset-level-Text/ControlRoom-Text.uasset",
 				"H:/Documents/General/Y3M2-A/Smeltery/SmelteryProject/Content/Assets/FactoryKit/Rooms/ControlRoomAssets/FI-084_Observatory_ControlRoom_Roof.uasset",
