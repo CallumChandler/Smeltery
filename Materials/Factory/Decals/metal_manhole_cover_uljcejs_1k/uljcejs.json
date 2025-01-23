@@ -1,0 +1,589 @@
+{
+  "assetCategories": {
+    "decal": {
+      "metal": {
+        "manhole cover": {}
+      },
+      "street": {
+        "manhole cover": {}
+      }
+    }
+  },
+  "averageColor": "#000000",
+  "categories": [
+    "atlas",
+    "decals",
+    "manhole cover"
+  ],
+  "comp_version": 1,
+  "description": "",
+  "displacementBias": 0.46802,
+  "displacementCalibrationAccuracy": 0.97476,
+  "displacementScale": 13.630438,
+  "environment": {
+    "biome": "undefined",
+    "region": "Asia"
+  },
+  "highest_available_res": 8192,
+  "id": "uljcejs",
+  "json": {
+    "contentLength": 12523,
+    "uri": "uljcejs.json"
+  },
+  "maps": [
+    {
+      "averageColor": "#BFBFBF",
+      "bitDepth": 32,
+      "colorSpace": "sRGB",
+      "contentLength": 63593083,
+      "maxIntensity": 255,
+      "mimeType": "image/x-exr",
+      "minIntensity": 119,
+      "name": "AO",
+      "physicalSize": "2x2",
+      "resolution": "8192x8192",
+      "type": "ao",
+      "uri": "uljcejs_8K_AO.exr"
+    },
+    {
+      "averageColor": "#BFBFBF",
+      "bitDepth": 8,
+      "colorSpace": "sRGB",
+      "contentLength": 19468311,
+      "maxIntensity": 255,
+      "mimeType": "image/jpeg",
+      "minIntensity": 119,
+      "name": "AO",
+      "physicalSize": "2x2",
+      "resolution": "8192x8192",
+      "type": "ao",
+      "uri": "uljcejs_8K_AO.jpg"
+    },
+    {
+      "averageColor": "#3E342B",
+      "bitDepth": 16,
+      "colorSpace": "sRGB",
+      "contentLength": 159654599,
+      "maxIntensity": 84,
+      "mimeType": "image/x-exr",
+      "minIntensity": 0,
+      "name": "Basecolor",
+      "physicalSize": "2x2",
+      "resolution": "8192x8192",
+      "type": "basecolor",
+      "uri": "uljcejs_8K_Basecolor.exr"
+    },
+    {
+      "averageColor": "#3E342B",
+      "bitDepth": 8,
+      "colorSpace": "sRGB",
+      "contentLength": 20128066,
+      "maxIntensity": 84,
+      "mimeType": "image/jpeg",
+      "minIntensity": 0,
+      "name": "Basecolor",
+      "physicalSize": "2x2",
+      "resolution": "8192x8192",
+      "type": "basecolor",
+      "uri": "uljcejs_8K_Basecolor.jpg"
+    },
+    {
+      "averageColor": "#808080",
+      "bitDepth": 32,
+      "colorSpace": "Linear",
+      "contentLength": 165384014,
+      "maxIntensity": 255,
+      "mimeType": "image/x-exr",
+      "minIntensity": 0,
+      "name": "Bump",
+      "physicalSize": "2x2",
+      "resolution": "8192x8192",
+      "type": "bump",
+      "uri": "uljcejs_8K_Bump.exr"
+    },
+    {
+      "averageColor": "#808080",
+      "bitDepth": 8,
+      "colorSpace": "Linear",
+      "contentLength": 7816520,
+      "maxIntensity": 255,
+      "mimeType": "image/jpeg",
+      "minIntensity": 0,
+      "name": "Bump",
+      "physicalSize": "2x2",
+      "resolution": "8192x8192",
+      "type": "bump",
+      "uri": "uljcejs_8K_Bump.jpg"
+    },
+    {
+      "averageColor": "#FFFFFF",
+      "bitDepth": 32,
+      "colorSpace": "sRGB",
+      "contentLength": 178981377,
+      "maxIntensity": 255,
+      "mimeType": "image/x-exr",
+      "minIntensity": 255,
+      "name": "Cavity",
+      "physicalSize": "2x2",
+      "resolution": "8192x8192",
+      "type": "cavity",
+      "uri": "uljcejs_8K_Cavity.exr"
+    },
+    {
+      "averageColor": "#FFFFFF",
+      "bitDepth": 8,
+      "colorSpace": "sRGB",
+      "contentLength": 25352090,
+      "maxIntensity": 255,
+      "mimeType": "image/jpeg",
+      "minIntensity": 255,
+      "name": "Cavity",
+      "physicalSize": "2x2",
+      "resolution": "8192x8192",
+      "type": "cavity",
+      "uri": "uljcejs_8K_Cavity.jpg"
+    },
+    {
+      "averageColor": "#858585",
+      "bitDepth": 32,
+      "colorSpace": "Linear",
+      "contentLength": 180806038,
+      "maxIntensity": 148,
+      "mimeType": "image/x-exr",
+      "minIntensity": 103,
+      "name": "Displacement",
+      "physicalSize": "2x2",
+      "resolution": "8192x8192",
+      "type": "displacement",
+      "uri": "uljcejs_8K_Displacement.exr"
+    },
+    {
+      "averageColor": "#858585",
+      "bitDepth": 8,
+      "colorSpace": "Linear",
+      "contentLength": 2452426,
+      "maxIntensity": 148,
+      "mimeType": "image/jpeg",
+      "minIntensity": 103,
+      "name": "Displacement",
+      "physicalSize": "2x2",
+      "resolution": "8192x8192",
+      "type": "displacement",
+      "uri": "uljcejs_8K_Displacement.jpg"
+    },
+    {
+      "averageColor": "#2E2E2E",
+      "bitDepth": 32,
+      "colorSpace": "Linear",
+      "contentLength": 48218656,
+      "maxIntensity": 78,
+      "mimeType": "image/x-exr",
+      "minIntensity": 25,
+      "name": "Gloss",
+      "physicalSize": "2x2",
+      "resolution": "8192x8192",
+      "type": "gloss",
+      "uri": "uljcejs_8K_Gloss.exr"
+    },
+    {
+      "averageColor": "#2E2E2E",
+      "bitDepth": 8,
+      "colorSpace": "Linear",
+      "contentLength": 13978986,
+      "maxIntensity": 78,
+      "mimeType": "image/jpeg",
+      "minIntensity": 25,
+      "name": "Gloss",
+      "physicalSize": "2x2",
+      "resolution": "8192x8192",
+      "type": "gloss",
+      "uri": "uljcejs_8K_Gloss.jpg"
+    },
+    {
+      "averageColor": "#7E83E9",
+      "bitDepth": 16,
+      "colorSpace": "Linear",
+      "contentLength": 122312362,
+      "maxIntensity": 192,
+      "mimeType": "image/x-exr",
+      "minIntensity": 69,
+      "name": "Normal",
+      "physicalSize": "2x2",
+      "resolution": "8192x8192",
+      "type": "normal",
+      "uri": "uljcejs_8K_Normal.exr"
+    },
+    {
+      "averageColor": "#7E83E9",
+      "bitDepth": 8,
+      "colorSpace": "Linear",
+      "contentLength": 33791280,
+      "maxIntensity": 192,
+      "mimeType": "image/jpeg",
+      "minIntensity": 69,
+      "name": "Normal",
+      "physicalSize": "2x2",
+      "resolution": "8192x8192",
+      "type": "normal",
+      "uri": "uljcejs_8K_Normal.jpg"
+    },
+    {
+      "averageColor": "#848484",
+      "bitDepth": 32,
+      "colorSpace": "Linear",
+      "contentLength": 2880953,
+      "maxIntensity": 255,
+      "mimeType": "image/x-exr",
+      "minIntensity": 0,
+      "name": "Opacity",
+      "physicalSize": "2x2",
+      "resolution": "8192x8192",
+      "type": "opacity",
+      "uri": "uljcejs_8K_Opacity.exr"
+    },
+    {
+      "averageColor": "#848484",
+      "bitDepth": 8,
+      "colorSpace": "Linear",
+      "contentLength": 1003073,
+      "maxIntensity": 255,
+      "mimeType": "image/jpeg",
+      "minIntensity": 0,
+      "name": "Opacity",
+      "physicalSize": "2x2",
+      "resolution": "8192x8192",
+      "type": "opacity",
+      "uri": "uljcejs_8K_Opacity.jpg"
+    },
+    {
+      "averageColor": "#D1D1D1",
+      "bitDepth": 32,
+      "colorSpace": "Linear",
+      "contentLength": 51858698,
+      "maxIntensity": 230,
+      "mimeType": "image/x-exr",
+      "minIntensity": 177,
+      "name": "Roughness",
+      "physicalSize": "2x2",
+      "resolution": "8192x8192",
+      "type": "roughness",
+      "uri": "uljcejs_8K_Roughness.exr"
+    },
+    {
+      "averageColor": "#D1D1D1",
+      "bitDepth": 8,
+      "colorSpace": "Linear",
+      "contentLength": 13490018,
+      "maxIntensity": 230,
+      "mimeType": "image/jpeg",
+      "minIntensity": 177,
+      "name": "Roughness",
+      "physicalSize": "2x2",
+      "resolution": "8192x8192",
+      "type": "roughness",
+      "uri": "uljcejs_8K_Roughness.jpg"
+    },
+    {
+      "averageColor": "#383838",
+      "bitDepth": 16,
+      "colorSpace": "sRGB",
+      "contentLength": 152955717,
+      "maxIntensity": 56,
+      "mimeType": "image/x-exr",
+      "minIntensity": 56,
+      "name": "Specular",
+      "physicalSize": "2x2",
+      "resolution": "8192x8192",
+      "type": "specular",
+      "uri": "uljcejs_8K_Specular.exr"
+    },
+    {
+      "averageColor": "#383838",
+      "bitDepth": 8,
+      "colorSpace": "sRGB",
+      "contentLength": 14010747,
+      "maxIntensity": 56,
+      "mimeType": "image/jpeg",
+      "minIntensity": 56,
+      "name": "Specular",
+      "physicalSize": "2x2",
+      "resolution": "8192x8192",
+      "type": "specular",
+      "uri": "uljcejs_8K_Specular.jpg"
+    }
+  ],
+  "meta": [
+    {
+      "key": "scanArea",
+      "name": "Scan Area",
+      "value": "2x2 m"
+    },
+    {
+      "key": "height",
+      "name": "Height",
+      "value": "0.009 m"
+    },
+    {
+      "key": "tileable",
+      "name": "Tileable",
+      "value": false
+    },
+    {
+      "key": "tiling_directions",
+      "name": "Tiling Directions",
+      "value": []
+    },
+    {
+      "key": "texelDensity",
+      "name": "Texel Density",
+      "value": "4096 px/m"
+    },
+    {
+      "key": "calibration",
+      "name": "Calibration",
+      "value": "GretagMacbeth ColorChecker Color Rendition Chart"
+    },
+    {
+      "key": "scanner",
+      "name": "Scanner",
+      "value": "MKX"
+    }
+  ],
+  "models": [],
+  "name": "Metal Manhole Cover",
+  "pack": {
+    "_id": "roadside-construction",
+    "name": "Roadside Construction"
+  },
+  "physicalSize": null,
+  "points": 1,
+  "previews": {
+    "images": [
+      {
+        "contentLength": 170254,
+        "resolution": "360x360",
+        "tags": [
+          "thumb"
+        ],
+        "uri": "uljcejs_Grid_360.png"
+      },
+      {
+        "contentLength": 226420,
+        "resolution": "420x420",
+        "tags": [
+          "thumb"
+        ],
+        "uri": "uljcejs_Grid_420.png"
+      },
+      {
+        "contentLength": 637028,
+        "resolution": "720x720",
+        "tags": [
+          "thumb",
+          "retina"
+        ],
+        "uri": "uljcejs_Grid_720.png"
+      },
+      {
+        "contentLength": 858710,
+        "resolution": "840x840",
+        "tags": [
+          "thumb",
+          "retina"
+        ],
+        "uri": "uljcejs_Grid_840.png"
+      },
+      {
+        "contentLength": 1970382,
+        "resolution": "1440x768",
+        "tags": [
+          "preview",
+          "clay"
+        ],
+        "uri": "uljcejs_PopupClay_1440.png"
+      },
+      {
+        "contentLength": 3646734,
+        "resolution": "1920x1080",
+        "tags": [
+          "preview",
+          "clay"
+        ],
+        "uri": "uljcejs_PopupClay_1920.png"
+      },
+      {
+        "contentLength": 7664478,
+        "resolution": "2880x1536",
+        "tags": [
+          "preview",
+          "clay",
+          "retina"
+        ],
+        "uri": "uljcejs_PopupClay_2880.png"
+      },
+      {
+        "contentLength": 13805435,
+        "resolution": "3840x2160",
+        "tags": [
+          "preview",
+          "clay",
+          "retina"
+        ],
+        "uri": "uljcejs_PopupClay_3840.png"
+      },
+      {
+        "contentLength": 1851755,
+        "resolution": "1440x768",
+        "tags": [
+          "preview"
+        ],
+        "uri": "uljcejs_Popup_1440.png"
+      },
+      {
+        "contentLength": 3451058,
+        "resolution": "1920x1080",
+        "tags": [
+          "preview"
+        ],
+        "uri": "uljcejs_Popup_1920.png"
+      },
+      {
+        "contentLength": 7248809,
+        "resolution": "2880x1536",
+        "tags": [
+          "preview",
+          "retina"
+        ],
+        "uri": "uljcejs_Popup_2880.png"
+      },
+      {
+        "contentLength": 13560079,
+        "resolution": "3840x2160",
+        "tags": [
+          "preview",
+          "retina"
+        ],
+        "uri": "uljcejs_Popup_3840.png"
+      }
+    ],
+    "relativeSize": "1x1",
+    "scaleReferences": []
+  },
+  "process_date": "2024-04-17 01:14:55",
+  "properties": [],
+  "referencePreviews": {
+    "maps": [],
+    "models": []
+  },
+  "references": [],
+  "revised": false,
+  "revision": 0,
+  "semanticTags": {
+    "architectural_style": {},
+    "asset_type": "decal",
+    "color": [
+      "Black",
+      "Gray"
+    ],
+    "contains": [
+      "Metal",
+      "Dirt",
+      "Design",
+      "Carvings",
+      "Manhole Cover",
+      "Cover",
+      "Lid",
+      "Utility-Cover"
+    ],
+    "country": "Japan",
+    "descriptive": [
+      "Carved",
+      "Designed",
+      "Rough",
+      "Weathered",
+      "Worn",
+      "round"
+    ],
+    "environment": [
+      "rural",
+      "urban",
+      "industrial"
+    ],
+    "industry": [
+      "archviz",
+      "games",
+      "VFX"
+    ],
+    "locations": {
+      "Asia": {
+        "Japan": {}
+      }
+    },
+    "maxSize": 2,
+    "minSize": 2,
+    "name": "Metal Manhole Cover",
+    "orientation": [
+      "floor"
+    ],
+    "region": "Asia",
+    "resolution": 8192,
+    "state": [
+      "old"
+    ],
+    "subject_matter": "manmade",
+    "theme": [
+      "Streets",
+      "City",
+      "Road",
+      "Urban",
+      "Parking",
+      "Industrial",
+      "Sidewalk",
+      "Downtown"
+    ]
+  },
+  "tags": [
+    "decal",
+    "urban",
+    "street",
+    "metal",
+    "dirt"
+  ],
+  "texelDensity": 4096,
+  "texture_type": "basic",
+  "ue_plugin_archives": [
+    {
+      "contentLength": 151219269,
+      "gltfVersion": "2.0",
+      "tier": 0,
+      "type": "gltf",
+      "uri": "ue_plugin_archives/tier_0/uljcejs_tier_0.zip",
+      "version": 1
+    },
+    {
+      "contentLength": 48577217,
+      "gltfVersion": "2.0",
+      "tier": 1,
+      "type": "gltf",
+      "uri": "ue_plugin_archives/tier_1/uljcejs_tier_1.zip",
+      "version": 1
+    },
+    {
+      "contentLength": 13241551,
+      "gltfVersion": "2.0",
+      "tier": 2,
+      "type": "gltf",
+      "uri": "ue_plugin_archives/tier_2/uljcejs_tier_2.zip",
+      "version": 1
+    },
+    {
+      "contentLength": 1983670,
+      "gltfVersion": "2.0",
+      "tier": 3,
+      "type": "gltf",
+      "uri": "ue_plugin_archives/tier_3/uljcejs_tier_3.zip",
+      "version": 1
+    }
+  ],
+  "version": 2
+}
