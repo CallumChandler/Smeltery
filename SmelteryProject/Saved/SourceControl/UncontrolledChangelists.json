@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"B:/git_hub_course_work/level block/smeltery/Smeltery/SmelteryProject/Content/Assets/GroupDs/Materials+Textures/Misc/Tools/ScrewDriver/Driver.uasset",
 				"B:/git_hub_course_work/level block/smeltery/Smeltery/SmelteryProject/Content/Assets/GroupDs/Materials+Textures/Misc/Tools/ScrewDriver/Screw.uasset",
 				"B:/git_hub_course_work/level block/smeltery/Smeltery/SmelteryProject/Content/Assets/GroupDs/Materials+Textures/Misc/Tools/Hammer/Hammer.uasset",
@@ -74,6 +75,10 @@
 				"B:/git_hub_course_work/level block/smeltery/Smeltery/SmelteryProject/Content/Assets/GroupDs/Materials+Textures/Misc/Tools/ScrewDriver/Rubber002_1K-PNG_Roughness.uasset",
 				"B:/git_hub_course_work/level block/smeltery/Smeltery/SmelteryProject/Content/Assets/GroupDs/Materials+Textures/Misc/Tools/Hammer/Wood062_1K-PNG_Color.uasset",
 				"B:/git_hub_course_work/level block/smeltery/Smeltery/SmelteryProject/Content/Assets/GroupDs/Materials+Textures/Misc/Tools/Hammer/Wood062_1K-PNG_Roughness.uasset",
+=======
+				"C:/Users/jdtay/Desktop/Project/Smeltery/SmelteryProject/Content/Maps/Main_Level.umap",
+				"C:/Users/jdtay/Desktop/Project/Smeltery/SmelteryProject/Content/Assets/GroupDs/GroupedAssets/WallLight.uasset",
+>>>>>>> 334a0ac8551620f7d84f352908adb3b7f2f595ad
 				"C:/Project/Smeltery/SmelteryProject/Content/Maps/Main_Level.umap",
 				"C:/Project/Smeltery/SmelteryProject/Content/Assets/GroupDs/FactoryKit/Machinery/FM-010_ForkLift.uasset",
 				"C:/Project/Smeltery/SmelteryProject/Content/Assets/GroupDs/FactoryKit/Miscellanious/FM-010_ForkLift.uasset",
