@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/ray2d/OneDrive/Documents/Unreal Projects/smeltry_project/Smeltery/SmelteryProject/Content/Assets/GroupDs/FactoryKit/Particles/DustParticles.uasset",
+				"C:/Users/ray2d/OneDrive/Documents/Unreal Projects/smeltry_project/Smeltery/SmelteryProject/Content/Maps/NamedPrototypes/Mikail.umap",
+				"C:/Users/ray2d/OneDrive/Documents/Unreal Projects/smeltry_project/Smeltery/SmelteryProject/Content/Assets/GroupDs/FactoryKit/Particles/Mat_DustSprites.uasset",
+				"C:/Users/ray2d/OneDrive/Documents/Unreal Projects/smeltry_project/Smeltery/SmelteryProject/Content/Assets/GroupDs/FactoryKit/Particles/dust_png.uasset",
+				"C:/Users/ray2d/OneDrive/Documents/Unreal Projects/smeltry_project/Smeltery/SmelteryProject/Content/Assets/GroupDs/FactoryKit/Particles/dust_png_Opacity.uasset",
 				"C:/Users/jdtay/Desktop/Project/Smeltery/SmelteryProject/Content/Maps/Main_Level.umap",
 				"C:/Users/jdtay/Desktop/Project/Smeltery/SmelteryProject/Content/Assets/GroupDs/FactoryKit/Rooms/OverseerHallway/FI-090_Observatory_Hallway_DoorFrame.uasset",
 				"C:/Users/jdtay/Desktop/Project/Smeltery/SmelteryProject/Content/Assets/GroupDs/FactoryKit/Rooms/OverseerHallway/FI-091_Observatory_Hallway_DoorFrame.uasset",
