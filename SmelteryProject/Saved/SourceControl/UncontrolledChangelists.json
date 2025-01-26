@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"C:/Users/jdtay/Desktop/Project/Smeltery/SmelteryProject/Content/Maps/Main_Level.umap",
 				"C:/Users/jdtay/Desktop/Project/Smeltery/SmelteryProject/Content/Assets/GroupDs/FactoryKit/Rooms/OverseerHallway/FI-090_Observatory_Hallway_DoorFrame.uasset",
 				"C:/Users/jdtay/Desktop/Project/Smeltery/SmelteryProject/Content/Assets/GroupDs/FactoryKit/Rooms/OverseerHallway/FI-091_Observatory_Hallway_DoorFrame.uasset",
@@ -52,6 +53,26 @@
 				"C:/Users/jdtay/Desktop/Project/Smeltery/SmelteryProject/Content/GroupCAssets/Meshes/Building/Lights/Blueprints/HangingLightBasement.uasset",
 				"C:/Users/jdtay/Desktop/Project/Smeltery/SmelteryProject/Content/GroupCAssets/Meshes/Building/Furniture/Fire.uasset",
 				"C:/Users/jdtay/Desktop/Project/Smeltery/SmelteryProject/Content/GroupCAssets/Meshes/Building/Lights/Blueprints/HangingLightFactory.uasset",
+=======
+<<<<<<< HEAD
+				"C:/Users/ray2d/OneDrive/Documents/Unreal Projects/smeltry_project/Smeltery/SmelteryProject/Content/Assets/GroupDs/FactoryKit/Particles/DustParticles.uasset",
+				"C:/Users/ray2d/OneDrive/Documents/Unreal Projects/smeltry_project/Smeltery/SmelteryProject/Content/Maps/NamedPrototypes/Mikail.umap",
+				"C:/Users/ray2d/OneDrive/Documents/Unreal Projects/smeltry_project/Smeltery/SmelteryProject/Content/Assets/GroupDs/FactoryKit/Particles/Mat_DustSprites.uasset",
+				"C:/Users/ray2d/OneDrive/Documents/Unreal Projects/smeltry_project/Smeltery/SmelteryProject/Content/Assets/GroupDs/FactoryKit/Particles/dust_png.uasset",
+				"C:/Users/ray2d/OneDrive/Documents/Unreal Projects/smeltry_project/Smeltery/SmelteryProject/Content/Assets/GroupDs/FactoryKit/Particles/dust_png_Opacity.uasset",
+				"C:/Users/ray2d/OneDrive/Documents/Unreal Projects/smeltry_project/Smeltery/SmelteryProject/Content/Assets/GroupDs/Materials+Textures/Player/MI_Quinn_02_Steampunk.uasset",
+				"C:/Users/ray2d/OneDrive/Documents/Unreal Projects/smeltry_project/Smeltery/SmelteryProject/Content/Assets/GroupDs/Materials+Textures/Player/MI_Quinn_01_Steampunk.uasset",
+				"C:/Users/ray2d/OneDrive/Documents/Unreal Projects/smeltry_project/Smeltery/SmelteryProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/ray2d/OneDrive/Documents/Unreal Projects/smeltry_project/Smeltery/SmelteryProject/Content/Assets/GroupDs/Materials+Textures/Player/T_Quinn_01ID_DSteampunk.uasset",
+				"C:/Users/ray2d/OneDrive/Documents/Unreal Projects/smeltry_project/Smeltery/SmelteryProject/Content/Assets/GroupDs/Materials+Textures/Player/T_Quinn_02ID_D_Steampunk.uasset",
+				"C:/Users/ray2d/OneDrive/Documents/Unreal Projects/smeltry_project/Smeltery/SmelteryProject/Content/Assets/GroupDs/FactoryKit/Interior/FI-005_Walkways.uasset",
+				"C:/Users/ray2d/OneDrive/Documents/Unreal Projects/smeltry_project/Smeltery/SmelteryProject/Content/Assets/GroupDs/FactoryKit/Interior/FI-005_Walkways-T.uasset",
+				"C:/Users/ray2d/OneDrive/Documents/Unreal Projects/smeltry_project/Smeltery/SmelteryProject/Content/Assets/GroupDs/FactoryKit/Interior/FI-005_WalkwaysCorner.uasset",
+				"C:/Users/ray2d/OneDrive/Documents/Unreal Projects/smeltry_project/Smeltery/SmelteryProject/Content/Assets/GroupDs/FactoryKit/Interior/FI-005_Walkways-X.uasset",
+				"C:/Users/ray2d/OneDrive/Documents/Unreal Projects/smeltry_project/Smeltery/SmelteryProject/Content/Maps/Assets.umap",
+				"C:/Users/ray2d/OneDrive/Documents/Unreal Projects/smeltry_project/Smeltery/SmelteryProject/Content/Assets/GroupDs/FactoryKit/Particles/EmberParticles.uasset",
+=======
+>>>>>>> e724c78343da119b07634f170967b808856d2deb
 				"C:/Users/WenYao/Documents/GroupDSmeltery/Smeltery/SmelteryProject/Content/Assets/GroupDs/Materials+Textures/Decorative/Table.uasset",
 				"C:/Users/WenYao/Documents/GroupDSmeltery/Smeltery/SmelteryProject/Content/Assets/GroupDs/FactoryKit/Decorative/FD-002-Table.uasset",
 				"C:/Users/WenYao/Documents/GroupDSmeltery/Smeltery/SmelteryProject/Content/Assets/GroupDs/Materials+Textures/Decorative/Chair_seat.uasset",
@@ -72,6 +93,7 @@
 				"C:/Users/WenYao/Documents/GroupDSmeltery/Smeltery/SmelteryProject/Content/Assets/GroupDs/Materials+Textures/Decorative/Wood_texture.uasset",
 				"C:/Users/WenYao/Documents/GroupDSmeltery/Smeltery/SmelteryProject/Content/Assets/GroupDs/Materials+Textures/Decorative/Chair_seat_leather.uasset",
 				"C:/Users/WenYao/Documents/GroupDSmeltery/Smeltery/SmelteryProject/Content/Assets/GroupDs/Materials+Textures/Decorative/Chair_seat_normal.uasset",
+>>>>>>> f5bcc8e41cd6d9961cb2eb3691d6634f2ff6f3fd
 				"C:/Users/Callum Chandler/Documents/Uni-Games Production/Year3/Mod2-Adv3D/Smeltery/SmelteryProject/Content/Assets/GroupCs/Meshes/Building/Shelves/SM_FShelfLeg.uasset",
 				"C:/Users/Callum Chandler/Documents/Uni-Games Production/Year3/Mod2-Adv3D/Smeltery/SmelteryProject/Content/Assets/GroupCs/Meshes/Building/Shelves/SM_FShelf.uasset",
 				"C:/Users/Callum Chandler/Documents/Uni-Games Production/Year3/Mod2-Adv3D/Smeltery/SmelteryProject/Content/Maps/Main_Level.umap",
@@ -175,19 +197,22 @@
 				"C:/Users/Callum Chandler/Documents/Uni-Games Production/Year3/Mod2-Adv3D/Smeltery/SmelteryProject/Content/Assets/GroupCs/Textures/Metal_001.uasset",
 				"C:/Users/Callum Chandler/Documents/Uni-Games Production/Year3/Mod2-Adv3D/Smeltery/SmelteryProject/Content/Assets/Emission_001.uasset",
 				"C:/Users/Callum Chandler/Documents/Uni-Games Production/Year3/Mod2-Adv3D/Smeltery/SmelteryProject/Content/Assets/GroupCs/Textures/Emission_001.uasset",
-				"C:/Users/ray2d/OneDrive/Documents/Unreal Projects/smeltry_project/Smeltery/SmelteryProject/Content/Assets/GroupDs/FactoryKit/Particles/DustParticles.uasset",
-				"C:/Users/ray2d/OneDrive/Documents/Unreal Projects/smeltry_project/Smeltery/SmelteryProject/Content/Maps/NamedPrototypes/Mikail.umap",
-				"C:/Users/ray2d/OneDrive/Documents/Unreal Projects/smeltry_project/Smeltery/SmelteryProject/Content/Assets/GroupDs/FactoryKit/Particles/Mat_DustSprites.uasset",
-				"C:/Users/ray2d/OneDrive/Documents/Unreal Projects/smeltry_project/Smeltery/SmelteryProject/Content/Assets/GroupDs/FactoryKit/Particles/dust_png.uasset",
-				"C:/Users/ray2d/OneDrive/Documents/Unreal Projects/smeltry_project/Smeltery/SmelteryProject/Content/Assets/GroupDs/FactoryKit/Particles/dust_png_Opacity.uasset",
 				"C:/Users/ray2d/OneDrive/Documents/Unreal Projects/smeltry_project/Smeltery/SmelteryProject/Content/Assets/GroupDs/Materials+Textures/Mat_SteampunkPlayer1.uasset",
 				"C:/Users/ray2d/OneDrive/Documents/Unreal Projects/smeltry_project/Smeltery/SmelteryProject/Content/Assets/GroupDs/Materials+Textures/Player/Mat_SteampunkPlayer1.uasset",
 				"C:/Users/ray2d/OneDrive/Documents/Unreal Projects/smeltry_project/Smeltery/SmelteryProject/Content/Assets/GroupDs/Materials+Textures/Player/Mat_SteampunkPlayer2.uasset",
+<<<<<<< HEAD
 				"C:/Users/ray2d/OneDrive/Documents/Unreal Projects/smeltry_project/Smeltery/SmelteryProject/Content/Assets/GroupDs/Materials+Textures/Player/MI_Quinn_02_Steampunk.uasset",
 				"C:/Users/ray2d/OneDrive/Documents/Unreal Projects/smeltry_project/Smeltery/SmelteryProject/Content/Assets/GroupDs/Materials+Textures/Player/MI_Quinn_01_Steampunk.uasset",
 				"C:/Users/ray2d/OneDrive/Documents/Unreal Projects/smeltry_project/Smeltery/SmelteryProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/ray2d/OneDrive/Documents/Unreal Projects/smeltry_project/Smeltery/SmelteryProject/Content/Assets/GroupDs/Materials+Textures/Player/T_Quinn_01ID_DSteampunk.uasset",
 				"C:/Users/ray2d/OneDrive/Documents/Unreal Projects/smeltry_project/Smeltery/SmelteryProject/Content/Assets/GroupDs/Materials+Textures/Player/T_Quinn_02ID_D_Steampunk.uasset",
+=======
+				"C:/Users/jdtay/Desktop/Project/Smeltery/SmelteryProject/Content/Maps/Main_Level.umap",
+				"C:/Users/jdtay/Desktop/Project/Smeltery/SmelteryProject/Content/Assets/GroupDs/FactoryKit/Rooms/OverseerHallway/FI-090_Observatory_Hallway_DoorFrame.uasset",
+				"C:/Users/jdtay/Desktop/Project/Smeltery/SmelteryProject/Content/Assets/GroupDs/FactoryKit/Rooms/OverseerHallway/FI-091_Observatory_Hallway_DoorFrame.uasset",
+				"C:/Users/jdtay/Desktop/Project/Smeltery/SmelteryProject/Content/Assets/GroupDs/FactoryKit/Rooms/OverseerHallway/FI-090_Smeltery_DoorFrame.uasset",
+				"C:/Users/jdtay/Desktop/Project/Smeltery/SmelteryProject/Content/Assets/GroupDs/FactoryKit/Rooms/ControlRoomAssets/FI-085_Control_Room_Floor.uasset",
+>>>>>>> e724c78343da119b07634f170967b808856d2deb
 				"C:/Users/jdtay/Desktop/Project/Smeltery/SmelteryProject/Content/Assets/GroupCs/Textures/Emission_001.uasset",
 				"C:/Users/jdtay/Desktop/Project/Smeltery/SmelteryProject/Content/Assets/GroupDs/Materials+Textures/FactoryFloor/Decals/Details/ManholeCover/Textures/Metal_Manhole_Cover_uljcejs_1K_Displacement.uasset",
 				"C:/Users/jdtay/Desktop/Project/Smeltery/SmelteryProject/Content/Assets/GroupDs/Materials+Textures/FactoryFloor/Decals/Details/ManholeCover/Textures/Damaged_Concrete_Pothole_tbqmbg3r_1K_Displacement.uasset",
