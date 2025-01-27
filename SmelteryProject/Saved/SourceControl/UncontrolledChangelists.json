@@ -5,7 +5,18 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/jdtay/Desktop/Project/Smeltery/SmelteryProject/Content/Maps/Main_Level.umap"
+				"C:/Users/jdtay/Desktop/Project/Smeltery/SmelteryProject/Content/Maps/Main_Level.umap",
+				"C:/Users/jdtay/Desktop/Project/Smeltery/SmelteryProject/Content/Assets/GroupDs/GroupedAssets/WallLight2.uasset",
+				"C:/Users/jdtay/Desktop/Project/Smeltery/SmelteryProject/Content/Assets/GroupDs/Materials+Textures/FactoryFloor/Decals/FloorCracks/ConcretePatchTextures/Asphalt_Patch_ui5kegkg_1K_AO.uasset",
+				"C:/Users/jdtay/Desktop/Project/Smeltery/SmelteryProject/Content/Assets/GroupDs/Materials+Textures/FactoryFloor/Decals/FloorCracks/ConcretePatchTextures/Asphalt_Patch_ui5kegkg_1K_BaseColor.uasset",
+				"C:/Users/jdtay/Desktop/Project/Smeltery/SmelteryProject/Content/Assets/GroupDs/Materials+Textures/FactoryFloor/Decals/FloorCracks/ConcretePatchTextures/Asphalt_Patch_ui5kegkg_1K_Gloss.uasset",
+				"C:/Users/jdtay/Desktop/Project/Smeltery/SmelteryProject/Content/Assets/GroupDs/Materials+Textures/FactoryFloor/Decals/FloorCracks/ConcretePatchTextures/Asphalt_Patch_ui5kegkg_1K_Normal.uasset",
+				"C:/Users/jdtay/Desktop/Project/Smeltery/SmelteryProject/Content/Assets/GroupDs/Materials+Textures/FactoryFloor/Decals/FloorCracks/ConcretePatchTextures/Asphalt_Patch_ui5kegkg_1K_Opacity.uasset",
+				"C:/Users/jdtay/Desktop/Project/Smeltery/SmelteryProject/Content/Assets/GroupDs/Materials+Textures/FactoryFloor/Decals/FloorCracks/ConcretePatchTextures/Asphalt_Patch_ui5kegkg_1K_Roughness.uasset",
+				"C:/Users/jdtay/Desktop/Project/Smeltery/SmelteryProject/Content/Assets/GroupDs/Materials+Textures/FactoryFloor/Decals/FloorCracks/ConcretePatchTextures/Asphalt_Patch_ui5kegkg_1K_Specular.uasset",
+				"C:/Users/jdtay/Desktop/Project/Smeltery/SmelteryProject/Content/Assets/GroupDs/Materials+Textures/FactoryFloor/Decals/FloorCracks/ConcretePatch.uasset",
+				"C:/Users/jdtay/Desktop/Project/Smeltery/SmelteryProject/Content/GroupCAssets/Meshes/SM_BCatStairs.uasset",
+				"C:/Users/jdtay/Desktop/Project/Smeltery/SmelteryProject/Content/Assets/GroupDs/FactoryKit/Rooms/FactoryFloorAssets/FI-041_Factory_Floor_Roof.uasset"
 			]
 		}
 	]
