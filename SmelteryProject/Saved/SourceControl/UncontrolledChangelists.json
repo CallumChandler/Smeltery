@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/ray2d/OneDrive/Documents/Unreal Projects/smeltry_project/Smeltery/SmelteryProject/Content/Maps/NamedPrototypes/AssetPresentations.umap",
+				"C:/Users/ray2d/OneDrive/Documents/Unreal Projects/smeltry_project/Smeltery/SmelteryProject/Content/Assets/GroupDs/GroupedAssets/BP_BigPallet1.uasset",
+				"C:/Users/ray2d/OneDrive/Documents/Unreal Projects/smeltry_project/Smeltery/SmelteryProject/Content/Assets/GroupDs/Materials+Textures/Pallet/Mat_PalletWood.uasset",
 				"B:/git_hub_course_work/level block/smeltery/Smeltery/SmelteryProject/Content/Maps/Main_Level.umap",
 				"B:/git_hub_course_work/level block/smeltery/Smeltery/SmelteryProject/Content/Assets/GroupDs/FactoryKit/Machinery/FM-00_Factory_Issue_Pully.uasset",
 				"B:/git_hub_course_work/level block/smeltery/Smeltery/SmelteryProject/Content/Assets/GroupDs/FactoryKit/Machinery/FM-00_Large_Storage_Vat.uasset",
