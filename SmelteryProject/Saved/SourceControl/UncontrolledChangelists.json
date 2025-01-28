@@ -5,13 +5,6 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"B:/git_hub_course_work/level block/smeltery/Smeltery/SmelteryProject/Content/Maps/Main_Level.umap",
-				"B:/git_hub_course_work/level block/smeltery/Smeltery/SmelteryProject/Content/Assets/GroupDs/FactoryKit/Machinery/FM-00_Factory_Issue_Pully.uasset",
-				"B:/git_hub_course_work/level block/smeltery/Smeltery/SmelteryProject/Content/Assets/GroupDs/FactoryKit/Machinery/FM-00_Large_Storage_Vat.uasset",
-				"B:/git_hub_course_work/level block/smeltery/Smeltery/SmelteryProject/Content/Assets/GroupDs/FactoryKit/Machinery/FM-00_Open_Vat.uasset",
-				"B:/git_hub_course_work/level block/smeltery/Smeltery/SmelteryProject/Content/Assets/GroupDs/FactoryKit/Machinery/FM-00_Vat.uasset",
-				"B:/git_hub_course_work/level block/smeltery/Smeltery/SmelteryProject/Content/Assets/GroupDs/FactoryKit/Machinery/FM-01_heavy_duty_pully.uasset",
-				"B:/git_hub_course_work/level block/smeltery/Smeltery/SmelteryProject/Content/Assets/GroupDs/FactoryKit/Machinery/FM-01_SmeltBucket.uasset",
 				"C:/Users/jdtay/Desktop/Project/Smeltery/SmelteryProject/Content/Maps/Main_Level.umap",
 				"C:/Users/jdtay/Desktop/Project/Smeltery/SmelteryProject/Content/Assets/GroupDs/GroupedAssets/WallLight2.uasset",
 				"C:/Users/jdtay/Desktop/Project/Smeltery/SmelteryProject/Content/Assets/GroupDs/Materials+Textures/FactoryFloor/Decals/FloorCracks/ConcretePatchTextures/Asphalt_Patch_ui5kegkg_1K_AO.uasset",
@@ -39,7 +32,15 @@
 				"C:/Users/jdtay/Desktop/Project/Smeltery/SmelteryProject/Content/Assets/GroupDs/Materials+Textures/FactoryFloor/WoodenFloorTextures/Planks037A_1K-JPG_Roughness_Mat.uasset",
 				"C:/Users/jdtay/Desktop/Project/Smeltery/SmelteryProject/Content/GroupCAssets/untitled_asset/Wood2_Color_Mat.uasset",
 				"C:/Users/jdtay/Desktop/Project/Smeltery/SmelteryProject/Content/GroupCAssets/Materials/wood_planks_grey_diff_1k_Mat.uasset",
-				"C:/Users/jdtay/Desktop/Project/Smeltery/SmelteryProject/Content/Assets/GroupDs/Materials+Textures/Decorative/Wood_texture_Mat.uasset"
+				"C:/Users/jdtay/Desktop/Project/Smeltery/SmelteryProject/Content/Assets/GroupDs/Materials+Textures/Decorative/Wood_texture_Mat.uasset",
+				"C:/Users/jdtay/Desktop/Project/Smeltery/SmelteryProject/Content/GroupCAssets/Meshes/SM_FMArmMechanicalArm_Empty_PhysicsAsset.uasset",
+				"B:/git_hub_course_work/level block/smeltery/Smeltery/SmelteryProject/Content/Maps/Main_Level.umap",
+				"B:/git_hub_course_work/level block/smeltery/Smeltery/SmelteryProject/Content/Assets/GroupDs/FactoryKit/Machinery/FM-00_Factory_Issue_Pully.uasset",
+				"B:/git_hub_course_work/level block/smeltery/Smeltery/SmelteryProject/Content/Assets/GroupDs/FactoryKit/Machinery/FM-00_Large_Storage_Vat.uasset",
+				"B:/git_hub_course_work/level block/smeltery/Smeltery/SmelteryProject/Content/Assets/GroupDs/FactoryKit/Machinery/FM-00_Open_Vat.uasset",
+				"B:/git_hub_course_work/level block/smeltery/Smeltery/SmelteryProject/Content/Assets/GroupDs/FactoryKit/Machinery/FM-00_Vat.uasset",
+				"B:/git_hub_course_work/level block/smeltery/Smeltery/SmelteryProject/Content/Assets/GroupDs/FactoryKit/Machinery/FM-01_heavy_duty_pully.uasset",
+				"B:/git_hub_course_work/level block/smeltery/Smeltery/SmelteryProject/Content/Assets/GroupDs/FactoryKit/Machinery/FM-01_SmeltBucket.uasset"
 			]
 		}
 	]
